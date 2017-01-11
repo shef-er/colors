@@ -1,0 +1,31 @@
+!---------------------------------------
+! Acid Byte for Xresources
+! Ernest Shefer <shef-er@ya.ru>
+!---------------------------------------
+*.background:  #121212
+*.foreground:  #bcbcbc
+*.cursorColor: #00d7d7
+!! black
+*.color0:      #303030
+*.color8:      #767676
+!! red
+*.color1:      #ff005f
+*.color9:      #ff00af
+!! green
+*.color2:      #5fd700
+*.color10:     #87ff00
+!! yellow
+*.color3:      #ffaf00
+*.color11:     #ffd75f
+!! blue
+*.color4:      #0087d7
+*.color12:     #5fafff
+!! magenta
+*.color5:      #8700d7
+*.color13:     #af5fff
+!! cyan
+*.color6:      #00d7d7
+*.color14:     #5fffff
+!! white
+*.color7:      #bcbcbc
+*.color15:     #ffffff
