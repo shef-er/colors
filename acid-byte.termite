@@ -8,7 +8,7 @@ background      = #121212
 foreground      = #bcbcbc
 foreground_bold = #ffffff
 # black
-color0  = #303030
+color0  = #121212
 color8  = #767676
 # red
 color1  = #ff005f
